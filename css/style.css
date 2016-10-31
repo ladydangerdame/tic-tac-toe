@@ -3,6 +3,27 @@
 }
 
 .box {
-  border: 1px solid black;
+  border: 1px solid white;
   height: 150px;
+  background-color: black;
+}
+
+.X {
+  color: purple;
+  font-size: 100px;
+}
+
+.O {
+  color: yellow;
+  font-size: 100px;
+}
+
+.btn-danger {
+  background-color: #f2183d;
+  border-color: #f2183d;
+}
+
+.btn-danger:hover {
+  background-color: #4ecdc4;
+  border-color: #4ecdc4;
 }
